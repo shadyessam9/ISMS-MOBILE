@@ -1,0 +1,4 @@
+#Thu Mar 03 12:43:52 EET 2022
+base.0=D\:\\Development\\system\\DIST\\Smart_Maintainace\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
